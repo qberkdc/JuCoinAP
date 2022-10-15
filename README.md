@@ -10,3 +10,6 @@ It has a database called nVault, your money will never disappear
 Very simple
 Only your own reward system
 It is enough to create it.
+
+# JuCoinAPI Web Version & SQLX
+[JuCoin Web](https://github.com/bariscodefxy/JuCoin-Web)
